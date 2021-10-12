@@ -1,5 +1,6 @@
 # Giới thiệu
 ## 1.1 Mục đích
+ Tài liệu này đưa ra cái nhìn bao quát về ứng dụng/hệ thống được phát triển - Hệ thống dịch vụ xe ôm công nghệ
 ## 1.2 Phạm vi
 Tài liệu này được áp dụng cho Hệ thống dịch vụ xe ôm công nghệ ( HTDVXOCN), sẽ được phát triển bởi nhóm bài tập PTTKHT của chúng tôi. HTVXOCN sẽ công cấp dịch vụ và ứng dụng di động tìm xe ôm thuận tiện thông minh, có nhiều ưu điểm so với hệ thống xe ôm truyền thống
 ## 1.3 Định nghĩa, viết tắt
