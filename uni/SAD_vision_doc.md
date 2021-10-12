@@ -98,7 +98,7 @@ Việc sử dụng dịch vụ xe ôm không nằm ngoài những dịch vụ c�
 
 # 4. Tổng quan sản phẩm
 ## 4.1 Góc nhìn hệ thống
-!(image)[Untitled.drawio.png]
+![image](Untitled.drawio.png)
 
 ## 4.2 Tổng quan tính năng
 | Lợi ích cho khách hàng | Tính năng phụ trợ |
