@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "uni/SAD_vision_doc.md",
+            "file": "learn/hacking/htb/Moew/Untitled.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 362
   },
   "right": {
     "id": "1ba576a5d6e2b688",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uni/SAD_vision_doc.md",
+                "file": "learn/hacking/htb/Moew/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "5fed26738cac77f2",
   "lastOpenFiles": [
+    "learn/hacking/htb/Untitled/Untitled.md",
     "uni/SAD_vision_doc.md",
     "uni/Untitled.md",
     "Untitled.drawio.png",
