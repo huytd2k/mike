@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learn/hacking/htb/Moew/Untitled.md",
+            "file": "learn/hacking/htb/Starting-point/Fawn.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn/hacking/htb/Moew/Untitled.md",
+                "file": "learn/hacking/htb/Starting-point/Fawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5fed26738cac77f2",
   "lastOpenFiles": [
+    "learn/hacking/htb/Starting-point/Fawn.md",
+    "learn/hacking/htb/Starting-point/Moew.md",
+    "learn/hacking/htb/Starting-point/Untitled.md",
     "learn/hacking/htb/Untitled/Untitled.md",
     "uni/SAD_vision_doc.md",
     "uni/Untitled.md",
     "Untitled.drawio.png",
     "uni/SAD.md",
     "learn/network/TLS.md",
-    "learn/network/Untitled.md",
-    "uni/uni.md",
-    "Learn/Untitled.md",
-    "Untitled.md"
+    "learn/network/Untitled.md"
   ]
 }

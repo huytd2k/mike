@@ -1,0 +1,3 @@
+- *FTP* is **client-server** model
+- FTP is often wrapped around other protocals with more security such as SSH
+- 
